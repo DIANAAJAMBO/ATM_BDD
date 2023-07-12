@@ -1,0 +1,8 @@
+{
+    "default": {
+      "paths": ["features/transactmoney.feature"],
+      "require": ["features/stepdefinitions/transactmoney_steps.js"],
+      "format": ["html:cucumber_report.html"],
+      "publish":true
+    }
+}
